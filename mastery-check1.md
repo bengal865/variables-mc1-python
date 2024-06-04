@@ -12,6 +12,7 @@
 - Add a comment block to the top of your script
 - Prompt the user for two numbers
 - Have Python square the first number (raise the number to the power of two)
+    - What Python math operator (symbol) do you use to raise a number to a certain power?
 - Tell Python to cube the second number (raise the number to the power of three)
 - Use the print function and f-strings to:
     -   display a brief description of what this script will do
