@@ -11,8 +11,8 @@
 
 - Add a comment block to the top of your script
 - Prompt the user for two numbers
-- Have Python square the first number
-- Tell Python to cube -- raise to the power of three -- the second number
+- Have Python square the first number (raise the number to the power of two)
+- Tell Python to cube the second number (raise the number to the power of three)
 - Use the print function and f-strings to:
     -   display a brief description of what this script will do
     -   display a sentence that tells the user what the first number and its square are
