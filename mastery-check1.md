@@ -2,6 +2,8 @@
 
 ## Submitting Your Work
 > Create a GitHub repo named: ***variables-mc1***
+>
+> Submit the URL to your repo on Google Classroom
 
 ## Your Script
 
