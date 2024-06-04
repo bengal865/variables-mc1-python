@@ -1,13 +1,14 @@
 # Mastery Check: Python Variables & Data Types
 
 ## Submitting Your Work
-> Create a GitHub repo named: ***variables-mc1***
+> **Please check your spelling and grammar before submitting your work!**
+>
+>  Create a GitHub repo named: ***variables-mc1***
 >
 > Submit the URL to your repo on Google Classroom
 
 ## Your Script
 
-- **Please check your spelling and grammar before submitting your work!**
 - Add a comment block to the top of your script
 - Prompt the user for two numbers
 - Have Python square the first number
