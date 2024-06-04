@@ -1,3 +1,3 @@
 # Student name
 # Current date
-# Project name
+# Mastery Check: Python Variables
